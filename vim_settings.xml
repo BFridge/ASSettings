@@ -134,12 +134,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/QYImageGridViewNew.java" timestamp="1506673375135">
-        <mark key="[" line="92" column="32" />
-        <mark key="]" line="93" column="33" />
-        <mark key="^" line="93" column="33" />
-        <mark key="." line="93" column="33" />
-      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/QYImageGridViewNew.java" timestamp="1506673375135" />
       <file name="E:/Paopao/qiyivideo/settings.gradle" timestamp="1505702601975">
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="0" />
@@ -183,7 +178,7 @@
         <mark key="^" line="402" column="63" />
         <mark key="." line="372" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506651220961">
+      <file name="/Dummy.txt" timestamp="1506677293168">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -193,6 +188,11 @@
         <mark key="]" line="94" column="7" />
         <mark key="." line="94" column="7" />
         <mark key="^" line="94" column="7" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/adapter/CommentsListPresenter.java" timestamp="1506677897797">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="E:/Paopao/qiyivideo/component/Card/QYCardV3/src/org/qiyi/card/v3/block/blockmodel/Block125Model.java" timestamp="1505879169029">
         <mark key="[" line="52" column="0" />
@@ -300,8 +300,8 @@
       <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uUjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RhdGljIA==</text>
@@ -310,31 +310,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZlZWREZXNjLnNldE9uVG91Y2hMaXN0ZW5lcihuZXcgTGlua01vdmVtZW50TWV0aG9kT3ZlcnJpZGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlci5yZXBsaWVkQ29tbWVudENvbnRlbnQuc2V0VGV4dChwaWNMaW5rKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uUjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlci5yZXBsaWVkQ29tbWVudENvbnRlbnQuc2V0T25Ub3VjaExpc3RlbmVyKG5ldyBMaW5rTW92ZW1lbnRNZXRob2RPdmVycmlkZSgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLnV0aWxzLlVzZXJJbmZvVXRpbHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLnVpLmhlbHBlci5GZWVkSnVtcEhlbHBlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLmVudGl0eS5DaGFuZ2VkRGF0YU9mQ29tbWVudHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlci5yZXBsaWVkQ29tbWVudENvbnRlbnQuc2V0VGV4dChwaWNMaW5rKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlci5yZXBsaWVkQ29tbWVudENvbnRlbnQuc2V0T25Ub3VjaExpc3RlbmVyKG5ldyBMaW5rTW92ZW1lbnRNZXRob2RPdmVycmlkZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlci5yZXBsaWVkQ29tbWVudENvbnRlbnQuc2V0VGV4dChjb25jYXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tZW50SG9sZGVyLnJlcGxpZWRDb21tZW50Q29udGVudC5zZXRUZXh0KGV4cHJlc3Npb25UZXh0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3Bhbm5hYmxlU3RyaW5nIGNvbmNhdCA9IChTcGFubmFibGVTdHJpbmcpIFRleHRVdGlscy5jb25jYXQoZXhwcmVzc2lvblRleHQsIHBpY0xpbmspOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
