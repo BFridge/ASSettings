@@ -3,553 +3,425 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/utils/PPCommonJsonParser.java" timestamp="1506064411776">
-        <mark key="[" line="569" column="81" />
-        <mark key="]" line="569" column="81" />
-        <mark key="." line="569" column="81" />
-        <mark key="^" line="569" column="81" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/fragment/CrowdFundingDetailFragment.java" timestamp="1506568296998">
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="310" column="61" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-24/android/text/method/ArrowKeyMovementMethod.java" timestamp="1506428138482" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/publisher/src/main/java/com/iqiyi/publisher/ui/view/RoundCornerImageView.java" timestamp="1504812268302">
-        <mark key="[" line="81" column="37" />
-        <mark key="]" line="81" column="49" />
-        <mark key="." line="81" column="49" />
-        <mark key="^" line="81" column="49" />
+      <file name="E:/Paopao/paopao_android/paopao_circle/src/main/java/com/iqiyi/paopao/starwall/utils/PPCircleUtils.java" timestamp="1506074004657">
+        <mark key="[" line="122" column="88" />
+        <mark key="]" line="123" column="97" />
+        <mark key="^" line="123" column="97" />
+        <mark key="." line="123" column="97" />
       </file>
-      <file name="/a.dummy" timestamp="1506420832356">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/cardv3/action/PaoPaoCardAction.java" timestamp="1506565875876">
+        <mark key="[" line="509" column="46" />
+        <mark key="]" line="509" column="54" />
+        <mark key="^" line="509" column="54" />
+        <mark key="." line="509" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/CustomLayoutInflater/app/src/main/java/fridge/com/customlayoutinflater/PPLayoutInflater.java" timestamp="1506480387125">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="51" column="19" />
-        <mark key="." line="52" column="0" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/res/layout/pp_crow_funding_profile_layout.xml" timestamp="1504700060655">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="43" />
+        <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/activity/HotCommentsActivity.java" timestamp="1505911068520">
-        <mark key="[" line="77" column="91" />
-        <mark key="]" line="77" column="91" />
-        <mark key="." line="77" column="91" />
-        <mark key="^" line="77" column="91" />
+      <file name="D:/Android/sdk/platforms/android-26/android.jar!/android/text/style/ClickableSpan.class" timestamp="1506586603834" />
+      <file name="E:/Paopao/qiyivideo/gradle/wrapper/gradle-wrapper.properties" timestamp="1505977733965">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/CustomLayoutInflater/app/src/main/java/fridge/com/customlayoutinflater/MainActivity.java" timestamp="1506480000292" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/res/layout/pp_qiyi_comment_bar.xml" timestamp="1506412022666">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/CommentsListPresenter.java" timestamp="1506595323440">
+        <mark key="[" line="744" column="51" />
+        <mark key="]" line="744" column="56" />
+        <mark key="." line="744" column="56" />
+        <mark key="^" line="744" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/pp/qiyivideo/settings.gradle" timestamp="1505288664839">
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="." line="212" column="0" />
+      <file name="E:/Paopao/qiyivideo/app/QYVideoClient/src/org/qiyi/video/homepage/viewgroup/ScrollLinearLayout.java" timestamp="1506579323131">
+        <mark key="[" line="212" column="8" />
+        <mark key="]" line="212" column="9" />
+        <mark key="^" line="212" column="9" />
+        <mark key="." line="212" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/fragment/CommentsFragment.java" timestamp="1505907334551">
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="0" />
-        <mark key="." line="406" column="0" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/FeedPresenter.java" timestamp="1506565925131">
+        <mark key="[" line="682" column="0" />
+        <mark key="]" line="683" column="107" />
       </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/IM/src/main/java/com/iqiyi/im/chat/model/handler/ChatHandler.java" timestamp="1504798129705">
-        <mark key="[" line="2163" column="34" />
-        <mark key="]" line="2163" column="34" />
-        <mark key="." line="2163" column="34" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/module/detail/IDetailAction.java" timestamp="1505740803005">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/ptr/CommonPtrRecyclerView.java" timestamp="1504781114633">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CommentBarPresenter.java" timestamp="1506348055532">
+        <mark key="[" line="205" column="12" />
+        <mark key="]" line="205" column="19" />
+        <mark key="^" line="205" column="19" />
+        <mark key="." line="205" column="19" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-24/android/widget/EditText.java" timestamp="1506419822699" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/audiorecord/ui/LineWaveVoiceView.java" timestamp="1504776624432">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/common/helper/CommentFeedHost.java" timestamp="1505739163443" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/models/CommentsModel.java" timestamp="1505909227231">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/module/DetailModule.java" timestamp="1505451787390">
-        <mark key="[" line="58" column="54" />
-        <mark key="]" line="59" column="25" />
-        <mark key="." line="59" column="25" />
-        <mark key="^" line="59" column="25" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/h5/activity/client/PPCommonWebViewClient.java" timestamp="1504625619340">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/welcome/WelcomeActivity.java" timestamp="1506478816766">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/constants/Cons.java" timestamp="1505909713154">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="125" column="74" />
-        <mark key="." line="125" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/PingbackBase.java" timestamp="1505727553297" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/CommentsListPresenter.java" timestamp="1505911140515">
-        <mark key="[" line="664" column="93" />
-        <mark key="]" line="665" column="92" />
-        <mark key="." line="665" column="92" />
-        <mark key="^" line="665" column="92" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_single/build.gradle" timestamp="1506420672751">
-        <mark key="[" line="70" column="28" />
-        <mark key="]" line="70" column="29" />
-        <mark key="^" line="51" column="26" />
-        <mark key="." line="70" column="29" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/module/circle/ICircleAction.java" timestamp="1505451810785">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/build.gradle" timestamp="1506420840452" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CommentBarPresenter.java" timestamp="1506593998721" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/input/PPInputEditText.java" timestamp="1506430682296">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="76" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" timestamp="1505907312939">
-        <mark key="[" line="1252" column="0" />
-        <mark key="]" line="1252" column="49" />
-        <mark key="^" line="1315" column="7" />
-        <mark key="." line="1319" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/activity/TrailDetailActivity.java" timestamp="1505370600720">
-        <mark key="[" line="72" column="13" />
-        <mark key="]" line="72" column="13" />
-        <mark key="." line="72" column="13" />
-        <mark key="^" line="72" column="13" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/res/layout/pp_feed_item_small_tail.xml" timestamp="1505403263365">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="31" />
-        <mark key="." line="72" column="31" />
-        <mark key="^" line="72" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/viewholder/ViewHolderCircleContent.java" timestamp="1505812992622" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-24/android/widget/TextView.java" timestamp="1506429053636">
-        <mark key="'" line="10397" column="0" />
-        <mark key="[" line="631" column="38" />
-        <mark key="]" line="631" column="46" />
-        <mark key="." line="631" column="46" />
-        <mark key="^" line="631" column="46" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BitmapOp/app/src/main/java/fridge/com/bitmapop/BitmapUtils.java" timestamp="1504798997438">
-        <mark key="[" line="119" column="122" />
-        <mark key="]" line="119" column="125" />
-        <mark key="^" line="119" column="125" />
-        <mark key="." line="119" column="125" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/qiyivideo/gradle/wrapper/gradle-wrapper.properties" timestamp="1505288636130">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/ui/adapter/PPSquareAdapter.java" timestamp="1505402256176">
-        <mark key="[" line="203" column="88" />
-        <mark key="]" line="204" column="86" />
-        <mark key="^" line="204" column="86" />
-        <mark key="." line="204" column="86" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/lib/common/performance/networkusage/NetStatsKey.java" timestamp="1504184940885">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/module/detail/IDetailAction.java" timestamp="1505451829930">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/StatisticAgentOld.java" timestamp="1505811307196" />
-      <file name="$USER_HOME$/AndroidStudioProjects/BitmapOp/app/src/main/java/fridge/com/bitmapop/MainActivity.java" timestamp="1504835465594">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="55" />
-        <mark key="^" line="21" column="55" />
-        <mark key="." line="21" column="55" />
-      </file>
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1505290110741">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsLogicHolder.java" timestamp="1505911046810">
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
-        <mark key="^" line="339" column="85" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/build.gradle" timestamp="1506420774004">
-        <mark key="[" line="74" column="23" />
-        <mark key="]" line="74" column="24" />
-        <mark key="." line="74" column="24" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BitmapOp/app/src/main/res/layout/activity_main.xml" timestamp="1504835420272">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsConfiguration.java" timestamp="1505911024100">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="97" column="4" />
-        <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/helper/CommonFeedContentHelper.java" timestamp="1506306513849" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/performance/network/HttpLoggingInterceptor.java" timestamp="1504165549227">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/starwall/entity/FeedDetailEntity.java" timestamp="1506063836363">
-        <mark key="[" line="2082" column="13" />
-        <mark key="]" line="2082" column="16" />
-        <mark key="^" line="2082" column="16" />
-        <mark key="." line="2082" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/qiyivideo/app/QYGPadClient/src/org/qiyi/android/video/ui/account/setting/SettingUploadController.java" timestamp="1505401392871" />
-      <file name="$USER_HOME$/Desktop/pp/qiyivideo/component/Card/QYBaseCardV3/src/org/qiyi/basecard/v3/data/event/Event.java" timestamp="1505823144796" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/res/layout/pp_share_layout.xml" timestamp="1504161263842">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/helper/CommonFeedMenuHelper.java" timestamp="1505907484490">
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/audiorecord/ui/RecordAudioView.java" timestamp="1506346420186">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
-        <mark key="^" line="124" column="7" />
         <mark key="." line="87" column="0" />
+        <mark key="^" line="84" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/IM/build.gradle" timestamp="1506420798776" />
-      <file name="/Dummy.txt" timestamp="1506430842621">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/feedComponent/FeedDetailShareLayout.java" timestamp="1506047903662" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/utils/PPDetailJumper.java" timestamp="1505451841211">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-24/android/widget/Editor.java" timestamp="1506426017829" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/entity/CommentParamEntity.java" timestamp="1505905783298">
-        <mark key="[" line="32" column="46" />
-        <mark key="]" line="35" column="66" />
-        <mark key="^" line="35" column="66" />
-        <mark key="." line="35" column="66" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/helper/FeedDetailHelper.java" timestamp="1505224468176">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/view/LayoutInflater.java" timestamp="1506480117542" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/res/values/strings.xml" timestamp="1505447000547">
-        <mark key="[" line="50" column="46" />
-        <mark key="]" line="50" column="46" />
-        <mark key="." line="50" column="46" />
-        <mark key="^" line="50" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/qiyivideo/biz/Player/PlayerLogicSDK/src/org/iqiyi/video/statistic/DefaultPingbackImpl.java" timestamp="1505822751524" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/CameraSDK/build.gradle" timestamp="1506564818980">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="16" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="30" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/qiyivideo/extra/iqiyi/Networklib/src/main/java/org/qiyi/net/httpengine/log/NetWorkUsageRecorder.java" timestamp="1504195061200">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/res/values/pp_ids.xml" timestamp="1505361265205">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-24/android/text/Selection.java" timestamp="1506426669892" />
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/UserAction.java" timestamp="1505791995378">
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/callback/PPLevelJsBridge.java" timestamp="1505394062033">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/models/CommentRepository.java" timestamp="1505911686249">
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="25" />
-        <mark key="." line="51" column="25" />
-        <mark key="^" line="51" column="25" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/res/layout/pp_feed_comment_item.xml" timestamp="1506653005224">
+        <mark key="[" line="275" column="43" />
+        <mark key="]" line="275" column="44" />
+        <mark key="." line="275" column="44" />
+        <mark key="^" line="275" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/StatisticAgent.java" timestamp="1505723682181">
-        <mark key="[" line="570" column="0" />
-        <mark key="]" line="570" column="0" />
-        <mark key="." line="570" column="0" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/utils/PPCommonJsonParser.java" timestamp="1506064544107">
+        <mark key="[" line="570" column="40" />
+        <mark key="]" line="570" column="41" />
+        <mark key="." line="570" column="41" />
+        <mark key="^" line="570" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1506424497277">
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/helper/QZHelper.java" timestamp="1506570398532" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/models/CommentRepository.java" timestamp="1506498823943">
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
+        <mark key="^" line="242" column="80" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" timestamp="1505466488646">
+        <mark key="[" line="1316" column="0" />
+        <mark key="]" line="1316" column="0" />
+        <mark key="." line="1316" column="0" />
+      </file>
+      <file name="E:/Paopao/qiyivideo/component/QYContext/src/org/qiyi/context/QyContext.java" timestamp="1506595509906" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/utils/LinkMovementMethodOverride.java" timestamp="1506589232881" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/entity/CommentEntity.java" timestamp="1506498452067">
+        <mark key="[" line="285" column="5" />
+        <mark key="]" line="287" column="40" />
+        <mark key="^" line="287" column="40" />
+        <mark key="." line="287" column="40" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsConfiguration.java" timestamp="1505984162006">
+        <mark key="[" line="64" column="7" />
+        <mark key="]" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="15" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/utils/fanslevel/FansLevelUtils.java" timestamp="1505398671400">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="97" />
+        <mark key="." line="80" column="81" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/interfaces/ICommentHost.java" timestamp="1505983963356">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="61" column="10" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/helper/FeedJumpHelper.java" timestamp="1505892652309">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="E:/Paopao/qiyivideo/build.gradle" timestamp="1505976967852">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/QYImageGridViewNew.java" timestamp="1506499083988">
+        <mark key="[" line="92" column="32" />
+        <mark key="]" line="93" column="33" />
+        <mark key="^" line="93" column="33" />
+        <mark key="." line="93" column="33" />
+      </file>
+      <file name="E:/Paopao/qiyivideo/settings.gradle" timestamp="1505702601975">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/CardV3PingbackDelegate.java" timestamp="1505976224521">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/ViewMoreLayout.java" timestamp="1506071889212">
+        <mark key="[" line="88" column="23" />
+        <mark key="]" line="88" column="26" />
+        <mark key="." line="88" column="26" />
+        <mark key="^" line="88" column="26" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/helper/CommonFeedContentHelper.java" timestamp="1506073967027">
+        <mark key="[" line="578" column="84" />
+        <mark key="]" line="579" column="93" />
+        <mark key="^" line="579" column="93" />
+        <mark key="." line="579" column="93" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/helper/CommentsHelper.java" timestamp="1506564603975">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/CommonDetailHelper.java" timestamp="1505397070663">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/viewholder/ViewHolderCircleContent.java" timestamp="1506588250457">
+        <mark key="[" line="2389" column="0" />
+        <mark key="]" line="2389" column="78" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsLogicHolder.java" timestamp="1506592334865">
+        <mark key="[" line="372" column="12" />
+        <mark key="]" line="372" column="12" />
+        <mark key="^" line="402" column="63" />
+        <mark key="." line="372" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506651220961">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-        <mark key="^" line="0" column="36" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/viewholder/CommentHolder.java" timestamp="1506498090698">
+        <mark key="[" line="93" column="96" />
+        <mark key="]" line="94" column="7" />
+        <mark key="." line="94" column="7" />
+        <mark key="^" line="94" column="7" />
+      </file>
+      <file name="E:/Paopao/qiyivideo/component/Card/QYCardV3/src/org/qiyi/card/v3/block/blockmodel/Block125Model.java" timestamp="1505879169029">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/interfaces/ICommentCallBack.java" timestamp="1506592395313" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/common/helper/CommentFeedHost.java" timestamp="1505983004908">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/feed/common/PaoPaoCardUtil.java" timestamp="1506582185576" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPScrollLinearLayout.java" timestamp="1506570507344" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/performance/fps/FrameCountMonitor.java" timestamp="1506049647777">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/frag/DownLoadViewPagerFragment.java" timestamp="1505976338511">
+        <mark key="[" line="411" column="45" />
+        <mark key="]" line="411" column="45" />
+        <mark key="." line="411" column="45" />
+        <mark key="^" line="413" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1506571599167">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="E:/android-architecture/BitmapOp/app/src/main/java/com/example/dongzesong/bitmapop/ExceptionUtils.java" timestamp="1504705030004">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="761" column="27" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" />
-      <jump line="777" column="44" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/entity/FeedDetailEntity.java" />
-      <jump line="1011" column="18" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/common/stat/PingbackParam.java" />
-      <jump line="158" column="42" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/cardv3/activity/EventListC3Activity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/entity/CrowFundEntity.java" />
-      <jump line="43" column="5" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/entity/CrowFundEntity.java" />
-      <jump line="22" column="48" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/entity/CrowFundEntity.java" />
-      <jump line="32" column="50" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/entity/CrowFundEntity.java" />
-      <jump line="36" column="53" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/entity/CrowFundEntity.java" />
-      <jump line="275" column="16" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/res/layout/pp_fund_order_detail.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/res/layout/pp_fund_order_detail.xml" />
-      <jump line="29" column="40" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/res/layout/pp_fund_order_detail.xml" />
-      <jump line="34" column="52" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/entity/CrowFundEntity.java" />
-      <jump line="316" column="16" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/res/layout/pp_fund_order_detail.xml" />
-      <jump line="336" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CommentBarPresenter.java" />
-      <jump line="139" column="12" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CrowdFundingDetailPresenter.java" />
-      <jump line="456" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/fragment/DetailBaseFragment.java" />
-      <jump line="91" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/activity/TrailDetailActivity.java" />
-      <jump line="980" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/entity/FeedDetailEntity.java" />
-      <jump line="80" column="20" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsLogicHolder.java" />
-      <jump line="150" column="12" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CrowdFundingDetailPresenter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CrowdFundingDetailPresenter.java" />
-      <jump line="154" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CrowdFundingDetailPresenter.java" />
-      <jump line="120" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/activity/HotCommentsActivity.java" />
-      <jump line="466" column="67" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/FeedDetailCommentsAdapter.java" />
-      <jump line="187" column="48" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/utils/FileUtils.java" />
-      <jump line="183" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/java/io/FileSystem.java" />
-      <jump line="192" column="29" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/userpage/ui/activity/PPShortVideoActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/userpage/ui/activity/PPShortVideoActivity.java" />
-      <jump line="109" column="20" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/ui/adapter/HotFeedAdapter.java" />
-      <jump line="2072" column="21" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/common/stat/PingbackParam.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/common/stat/PingbackParam.java" />
-      <jump line="1484" column="47" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/FeedDetailCommentsAdapter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/FeedDetailCommentsAdapter.java" />
-      <jump line="297" column="34" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/common/stat/PingbackParam.java" />
-      <jump line="96" column="12" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/pullrefresh/PullRefreshLayout.java" />
-      <jump line="332" column="16" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" />
-      <jump line="369" column="36" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/activity/FeedFragment.java" />
-      <jump line="3" column="0" filename="/Dummy.txt" />
-      <jump line="3171" column="68" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/adapter/viewholder/ViewHolderCircleContent.java" />
-      <jump line="202" column="25" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/http/NCommentRequest.java" />
-      <jump line="360" column="20" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/helper/FeedJumpHelper.java" />
-      <jump line="54" column="56" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/android/transition/Transition.java" />
-      <jump line="2446" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/android/transition/Transition.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/android/transition/Transition.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/SimpleAdapter.java" />
-      <jump line="13" column="12" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/MyAdapter.java" />
-      <jump line="112" column="4" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha2/support-v4-24.0.0-alpha2-sources.jar!/android/support/v4/widget/NestedScrollView.java" />
-      <jump line="1941" column="12" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha2/support-v4-24.0.0-alpha2-sources.jar!/android/support/v4/widget/NestedScrollView.java" />
-      <jump line="106" column="7" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha2/support-v4-24.0.0-alpha2-sources.jar!/android/support/v4/widget/NestedScrollView.java" />
-      <jump line="1947" column="0" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha2/support-v4-24.0.0-alpha2-sources.jar!/android/support/v4/widget/NestedScrollView.java" />
-      <jump line="201" column="4" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha2/support-v4-24.0.0-alpha2-sources.jar!/android/support/v4/widget/NestedScrollView.java" />
-      <jump line="29" column="31" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_single/build/intermediates/exploded-aar/paopao_android/paopao_android/unspecified/debug/res/layout/pp_level_icon_layout.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_single/build/intermediates/exploded-aar/paopao_android/paopao_android/unspecified/debug/res/layout/pp_level_icon_layout.xml" />
-      <jump line="134" column="5" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/RenderNode.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/RenderNode.java" />
-      <jump line="57" column="16" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/view/CuView.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/view/CuView.java" />
-      <jump line="3706" column="10" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/View.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/View.java" />
-      <jump line="1149" column="16" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CommentBarPresenter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CommentBarPresenter.java" />
-      <jump line="366" column="4" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/android/view/GestureDetector.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/android/view/GestureDetector.java" />
-      <jump line="1064" column="8" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" />
-      <jump line="1079" column="16" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" />
-      <jump line="19" column="10" filename="$USER_HOME$/Desktop/card/css_layout.json" />
-      <jump line="866" column="31" filename="$USER_HOME$/Desktop/card/css_layout.json" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/card/css_layout.json" />
-      <jump line="857" column="42854" filename="$USER_HOME$/Desktop/card/css_layout.json" />
-      <jump line="89" column="19" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/utils/FansLevelUtils.java" />
-      <jump line="98" column="7" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/main/MainAdapter.java" />
-      <jump line="1038" column="16" filename="$USER_HOME$/android-ultra/ptr-lib/src/in/srain/cube/views/ptr/PtrFrameLayout.java" />
-      <jump line="121" column="50" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/view/QZDrawerView.java" />
-      <jump line="171" column="4" filename="$USER_HOME$/Library/Android/sdk/sources/android-23/android/view/MotionEvent.java" />
-      <jump line="2593" column="39" filename="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/24.0.0-alpha2/support-v4-24.0.0-alpha2-sources.jar!/android/support/v4/view/ViewPager.java" />
-      <jump line="277" column="9" filename="$USER_HOME$/Desktop/pp/qiyivideo/app/QYVideoClient/src/org/qiyi/video/homepage/viewgroup/ScrollLinearLayout.java" />
-      <jump line="93" column="21" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/feedcollection/ui/fragment/PPSearchCardFragment.java" />
-      <jump line="80" column="5" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/feedcollection/ui/fragment/PPSearchCardFragment.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/view/besier/RotateArrowView.java" />
-      <jump line="37" column="51" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/view/besier/RotateArrowView.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/HiListView/app/src/main/java/fridge/com/hilistview/view/besier/RotateArrowView.java" />
-      <jump line="215" column="39" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/FeedDetailCommentsAdapter.java" />
-      <jump line="367" column="25" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/common/utils/PPCommonTools.java" />
-      <jump line="372" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/common/utils/PPCommonTools.java" />
-      <jump line="203" column="54" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/api/PaoPaoApiConstants.java" />
-      <jump line="196" column="8" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/utils/ui/ViewUtils.java" />
-      <jump line="175" column="30" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/utils/ui/ViewUtils.java" />
-      <jump line="8" column="1" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/android/support/v4/view/ViewPager.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsConfiguration.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsConfiguration.java" />
-      <jump line="41" column="24" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/models/CommentRepository.java" />
-      <jump line="5" column="0" filename="/Dummy.txt" />
-      <jump line="2330" column="16" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/ui/activity/PPQiyiHomeActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/ui/activity/PPQiyiHomeActivity.java" />
-      <jump line="1762" column="0" filename="$USER_HOME$/Desktop/pp/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/starwall/entity/FeedDetailEntity.java" />
-      <jump line="4" column="0" filename="/Dummy.txt" />
-      <jump line="1204" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/android/widget/TextView.java" />
-      <jump line="10397" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-24/android/widget/TextView.java" />
+      <jump line="216" column="14" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="184" column="16" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="77" column="26" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/adapter/viewholder/CommentHolder.java" />
+      <jump line="233" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="52" column="4" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="1250" column="12" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/activity/FeedDetailActivity.java" />
+      <jump line="805" column="19" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/activity/FeedDetailActivity.java" />
+      <jump line="177" column="22" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="234" column="28" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="180" column="8" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="169" column="10" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="19" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/res/layout/pp_level_icon_layout.xml" />
+      <jump line="172" column="10" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
+      <jump line="237" column="46" filename="E:/Paopao/paopao_android/paopao_android/src/main/res/layout/pp_qz_feed_header.xml" />
+      <jump line="85" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/activity/base/PaoPaoBaseActivity.java" />
+      <jump line="1915" column="4" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/activity/FeedDetailActivity.java" />
+      <jump line="46" column="59" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/resizelayout/ResizeLayout.java" />
+      <jump line="23" column="0" filename="E:/Paopao/qiyivideo/QYVideoClient/build.gradle" />
+      <jump line="150" column="41" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/im/http/helper/RosterHttpHelper.java" />
+      <jump line="29" column="74" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/im/http/helper/RosterCardHttpHelper.java" />
+      <jump line="38" column="0" filename="E:/Paopao/qiyivideo/settings.gradle" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/settings.gradle" />
+      <jump line="3210" column="4" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/adapter/viewholder/ViewHolderCircleContent.java" />
+      <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/adapter/viewholder/ViewHolderCircleContent.java" />
+      <jump line="152" column="0" filename="E:/Paopao/qiyivideo/app/QYVideoClient/build.gradle" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/app/QYVideoClient/build.gradle" />
+      <jump line="246" column="8" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/DetailCommentsJumpPresenter.java" />
+      <jump line="728" column="115" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/QZFansCircleHitRankFragment.java" />
+      <jump line="189" column="15" filename="E:/Paopao/qiyivideo/component/Card/QYBaseCardV3/src/org/qiyi/basecard/v3/data/statistics/BlockStatistics.java" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/component/Card/QYBaseCardV3/src/org/qiyi/basecard/v3/data/statistics/BlockStatistics.java" />
+      <jump line="259" column="11" filename="D:/Android/sdk/sources/android-24/android/transition/Transition.java" />
+      <jump line="2446" column="0" filename="D:/Android/sdk/sources/android-24/android/transition/Transition.java" />
+      <jump line="967" column="0" filename="E:/Paopao/qiyivideo/biz/CrashReporter/src/main/java/com/qiyi/crashreporter/core/CrashHandler.java" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/biz/CrashReporter/src/main/java/com/qiyi/crashreporter/core/CrashHandler.java" />
+      <jump line="270" column="29" filename="E:/Paopao/qiyivideo/app/QYVideoClient/src/org/qiyi/video/homepage/viewgroup/ScrollLinearLayout.java" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/app/QYVideoClient/src/org/qiyi/video/homepage/viewgroup/ScrollLinearLayout.java" />
+      <jump line="31" column="18" filename="E:/Paopao/qiyivideo/app/QYVideoClient/src/org/qiyi/video/homepage/viewgroup/ScrollLinearLayout.java" />
+      <jump line="619" column="23" filename="E:/Paopao/qiyivideo/component/Card/QYBaseCardV3/src/org/qiyi/basecard/v3/viewmodel/block/AbsBlockModel.java" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/component/Card/QYBaseCardV3/src/org/qiyi/basecard/v3/viewmodel/block/AbsBlockModel.java" />
+      <jump line="121" column="42" filename="E:/Paopao/qiyivideo/component/Card/QYCardV3/src/org/qiyi/card/v3/block/MainBlockManager.java" />
+      <jump line="545" column="37" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/ui/adapter/PPSquareAdapter.java" />
+      <jump line="561" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/ui/adapter/PPSquareAdapter.java" />
+      <jump line="806" column="22" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/FeedDetailCommentsAdapter.java" />
+      <jump line="1479" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/adapter/FeedDetailCommentsAdapter.java" />
+      <jump line="50" column="26" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/data/PPCircleRepository.java" />
+      <jump line="36" column="59" filename="E:/Paopao/qiyivideo/biz/QYPaopao/build.gradle" />
+      <jump line="24" column="27" filename="E:/Paopao/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/lib/common/performance/fps/FrameCounter.java" />
+      <jump line="53" column="12" filename="E:/Paopao/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/lib/common/performance/fps/FrameCounter.java" />
+      <jump line="114" column="46" filename="E:/Paopao/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/datareact/FeatureLiveData.java" />
+      <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/datareact/FeatureLiveData.java" />
+      <jump line="251" column="13" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/utils/ui/BitmapUtil.java" />
+      <jump line="83" column="0" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/ptr/CommonPtrRecyclerView.java" />
+      <jump line="51" column="8" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/ptr/CommonPtrRecyclerView.java" />
+      <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/ptr/CommonPtrRecyclerView.java" />
+      <jump line="174" column="32" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/cardv3/action/PaoPaoCardCustomAction.java" />
+      <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/cardv3/action/PaoPaoCardCustomAction.java" />
+      <jump line="155" column="30" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/module/CircleModule.java" />
+      <jump line="162" column="49" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/cardv3/action/PaoPaoCardAction.java" />
+      <jump line="176" column="53" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/module/HomeModule.java" />
+      <jump line="66" column="4" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/module/HomeModule.java" />
+      <jump line="96" column="12" filename="E:/Paopao/qiyivideo/app/QYVideoClient/debug/com/qiyi/video/stetho/StethoUtils.java" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/app/QYVideoClient/debug/com/qiyi/video/stetho/StethoUtils.java" />
+      <jump line="76" column="52" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/audiorecord/AudioRecordManager.java" />
+      <jump line="93" column="12" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/cardv3/circle/CircleListFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
-      <register name="b" type="4">
-        <text>b</text>
-      </register>
-      <register name="j" type="4">
-        <text />
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxQQU9QQU9SRVFcPg==</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT01FVF9JRF9LRVkgPSAiY29tZXRJZCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZlZWREZXNjLnNldE9uVG91Y2hMaXN0ZW5lcihuZXcgTGlua01vdmVtZW50TWV0aG9kT3ZlcnJpZGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="q" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlci5yZXBsaWVkQ29tbWVudENvbnRlbnQuc2V0VGV4dChwaWNMaW5rKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlci5yZXBsaWVkQ29tbWVudENvbnRlbnQuc2V0T25Ub3VjaExpc3RlbmVyKG5ldyBMaW5rTW92ZW1lbnRNZXRob2RPdmVycmlkZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlcgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Zm9yIChTdHJpbmcgcHJlZml4IDogc0NsYXNzUHJlZml4TGlzdCkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVmlldyB2aWV3ID0gY3JlYXRlVmlldyhuYW1lLCBwcmVmaXgsIGF0dHJzKTsKICAgICAgICAgICAgICAgIGlmICh2aWV3ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAvL2RvIGN1c3RvbSBoZXJlLi4uCiAgICAgICAgICAgICAgICAgICAgaWYodmlldyBpbnN0YW5jZW9mIEltYWdlVmlldykgewogICAgICAgICAgICAgICAgICAgICAgICB2aWV3LnNldEJhY2tncm91bmRDb2xvcihDb2xvci5CTFVFKTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhdHRycyAhPSBudWxsKSB7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBhdHRycy5nZXRBdHRyaWJ1dGVDb3VudCgpOyBpKyspIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYXR0cmlidXRlTmFtZSA9IGF0dHJzLmdldEF0dHJpYnV0ZU5hbWUoaSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGF0dHJpYnV0ZVZhbHVlID0gYXR0cnMuZ2V0QXR0cmlidXRlVmFsdWUoaSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvY2Vzc0F0dHJzKGF0dHJpYnV0ZU5hbWUsIGF0dHJpYnV0ZVZhbHVlLCB2aWV3KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHZpZXc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKENsYXNzTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgLy8gSW4gdGhpcyBjYXNlIHdlIHdhbnQgdG8gbGV0IHRoZSBiYXNlIGNsYXNzIHRha2UgYSBjcmFjawogICAgICAgICAgICAgICAgLy8gYXQgaXQuCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRJbmZsYXRlciA9IGdldExheW91dEluZmxhdGVyKCkuY2xvbmVJbkNvbnRleHQodGhpcyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8ucXljb21wb25lbnQuZW1vdGlvbi51dGlscy5FbW90aW9uRWRpdFV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudEhvbGRlci5yZXBsaWVkQ29tbWVudENvbnRlbnQuc2V0VGV4dChjb25jYXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tZW50SG9sZGVyLnJlcGxpZWRDb21tZW50Q29udGVudC5zZXRUZXh0KGV4cHJlc3Npb25UZXh0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3Bhbm5hYmxlU3RyaW5nIGNvbmNhdCA9IChTcGFubmFibGVTdHJpbmcpIFRleHRVdGlscy5jb25jYXQoZXhwcmVzc2lvblRleHQsIHBpY0xpbmspOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>188</text>
+        <text>145</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQQU9QQU9SRVFcPg==</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxQQU9QQU9SRVFcPg==</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxQQU9QQU9SRVFcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>onDraw</entry>
-        <entry>setVisibility</entry>
-        <entry>else</entry>
-        <entry>intent</entry>
-        <entry>action.Lauch</entry>
-        <entry>actin.main</entry>
-        <entry>GONE</entry>
-        <entry>mCan</entry>
-        <entry>getUser</entry>
-        <entry>finish</entry>
-        <entry>action</entry>
-        <entry>feed</entry>
-        <entry>isMaster</entry>
-        <entry>mDocId</entry>
-        <entry>Recomm</entry>
-        <entry>activity</entry>
-        <entry>375</entry>
-        <entry encoding="base64">XDxNZXNzYWdlU2Vzc2lvbkNvZGVcPg==</entry>
-        <entry encoding="base64">XDwyMTUyNDJcPg==</entry>
-        <entry encoding="base64">XDxQQU9QQU9SRVFcPg==</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>2154</entry>
-        <entry>217</entry>
-        <entry>246</entry>
-        <entry>57</entry>
-        <entry>954</entry>
-        <entry>530</entry>
-        <entry>300</entry>
-        <entry>385</entry>
-        <entry>186</entry>
-        <entry>856</entry>
-        <entry>647</entry>
-        <entry>231</entry>
-        <entry>27</entry>
-        <entry>372</entry>
-        <entry>175</entry>
-        <entry>450</entry>
-        <entry>785</entry>
-        <entry>48</entry>
-        <entry>97</entry>
-        <entry>188</entry>
+        <entry>2415</entry>
+        <entry>2597</entry>
+        <entry>112</entry>
+        <entry>221</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>455</entry>
+        <entry>396</entry>
+        <entry>860</entry>
+        <entry>145</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
@@ -557,11 +429,11 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

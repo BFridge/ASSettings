@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Library/Android/sdk/platform-tools/adb" />
       <option name="PARAMETERS" value="shell pm clear com.iqiyi.paopao" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Library/Android/sdk/platform-tools" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Administrator.CONT-A345-D/Library/Android/sdk/platform-tools" />
     </exec>
   </tool>
 </toolSet>
