@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="mirrors.neusoft.edu.cn" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="PROXY_LOGIN" value="1" />
+    <option name="PROXY_PASSWORD_CRYPT" value="MQ==" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+  </component>
+</application>
