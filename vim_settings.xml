@@ -55,18 +55,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/feedcollection/entity/TrailDetailEntity.java" timestamp="1506753314457">
-        <mark key="[" line="194" column="5" />
-        <mark key="]" line="196" column="42" />
-        <mark key="^" line="196" column="42" />
-        <mark key="." line="196" column="42" />
-      </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/entity/CommentTrailHost.java" timestamp="1506754740398">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="37" column="41" />
-      </file>
       <file name="E:/Paopao/paopao_android/paopao_common_library/extLibs/allclasses.jar!/org/qiyi/basecard/v3/page/IPage.class" timestamp="1506657913270" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CommentBarPresenter.java" timestamp="1506348055532">
         <mark key="[" line="205" column="12" />
@@ -109,10 +97,9 @@
       </file>
       <file name="E:/Paopao/qiyivideo/app/QYVideoClient/src/org/qiyi/android/video/pagemgr/BaseMainUIPage.java" timestamp="1506672425806" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/feedcollection/utils/FeedUtils.java" timestamp="1506753523875">
-        <mark key="[" line="148" column="13" />
-        <mark key="]" line="149" column="11" />
-        <mark key="." line="149" column="11" />
-        <mark key="^" line="149" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/activity/GeneralCircleActivity.java" timestamp="1506666852666" />
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/entity/CommentEntity.java" timestamp="1506498452067">
