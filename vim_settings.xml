@@ -14,11 +14,6 @@
         <mark key="." line="123" column="97" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/cardv3/action/PaoPaoCardAction.java" timestamp="1506758410121" />
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/res/layout/pp_crow_funding_profile_layout.xml" timestamp="1504700060655">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="43" />
-        <mark key="." line="222" column="0" />
-      </file>
       <file name="E:/Paopao/qiyivideo/gradle/wrapper/gradle-wrapper.properties" timestamp="1505977733965">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
@@ -43,11 +38,6 @@
         <mark key="[" line="682" column="0" />
         <mark key="]" line="683" column="107" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/module/detail/IDetailAction.java" timestamp="1505740803005">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="E:/Paopao/paopao_android/paopao_common_library/extLibs/allclasses.jar!/org/qiyi/basecard/v3/page/IPage.class" timestamp="1506657913270" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CommentBarPresenter.java" timestamp="1506348055532">
         <mark key="[" line="205" column="12" />
@@ -61,11 +51,7 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="84" column="52" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/callback/PPLevelJsBridge.java" timestamp="1505394062033">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/values/strings.xml" timestamp="1507542191573" />
       <file name="E:/Paopao/qiyivideo/biz/Player/QYPlayerCardView/src/com/iqiyi/qyplayercardview/portraitv3/presenter/CommentPresenter.java" timestamp="1506692021073" />
       <file name="E:/Paopao/qiyivideo/app/QYVideoClient/src/com/qiyi/video/pages/WebPage.java" timestamp="1506671319716" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/res/layout/pp_feed_comment_item.xml" timestamp="1506653005224">
@@ -110,11 +96,6 @@
         <mark key="^" line="82" column="68" />
         <mark key="." line="82" column="68" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/utils/fanslevel/FansLevelUtils.java" timestamp="1505398671400">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="97" />
-        <mark key="." line="80" column="81" />
-      </file>
       <file name="E:/Paopao/qiyivideo/component/QYContext/src/org/qiyi/context/utils/QyIdUtils.java" timestamp="1506683305971" />
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/common/helper/TrailHelper.java" timestamp="1506757823562" />
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/interfaces/ICommentHost.java" timestamp="1505983963356">
@@ -123,27 +104,7 @@
         <mark key="^" line="61" column="10" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/helper/FeedJumpHelper.java" timestamp="1505892652309">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
-      <file name="E:/Paopao/qiyivideo/build.gradle" timestamp="1505976967852">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/QYImageGridViewNew.java" timestamp="1506673375135" />
-      <file name="E:/Paopao/qiyivideo/settings.gradle" timestamp="1505702601975">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-      </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/CardV3PingbackDelegate.java" timestamp="1505976224521">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="E:/Paopao/qiyivideo/component/Card/QYBaseCardV3/src/org/qiyi/basecard/v3/adapter/CardAdapterInternal.java" timestamp="1506757220612" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/ViewMoreLayout.java" timestamp="1506071889212">
         <mark key="[" line="88" column="23" />
@@ -156,16 +117,6 @@
         <mark key="]" line="579" column="93" />
         <mark key="^" line="579" column="93" />
         <mark key="." line="579" column="93" />
-      </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/helper/CommentsHelper.java" timestamp="1506564603975">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/CommonDetailHelper.java" timestamp="1505397070663">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_common_library/extLibs/allclasses.jar!/org/qiyi/video/page/v3/page/view/V3BasePage.class" timestamp="1506659888814" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsLogicHolder.java" timestamp="1506592334865">
@@ -191,11 +142,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="712" column="63" />
       </file>
-      <file name="E:/Paopao/qiyivideo/component/Card/QYCardV3/src/org/qiyi/card/v3/block/blockmodel/Block125Model.java" timestamp="1505879169029">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/TrailDetailPresenter.java" timestamp="1507533402301">
         <mark key="[" line="304" column="0" />
         <mark key="]" line="304" column="0" />
@@ -208,10 +154,11 @@
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="73" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/common/helper/CommentFeedHost.java" timestamp="1507521938996">
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/common/helper/CommentFeedHost.java" timestamp="1507543196179">
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="85" column="7" />
+        <mark key="." line="85" column="7" />
+        <mark key="^" line="85" column="7" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/NineGridImageView.java" timestamp="1506674282486" />
       <file name="E:/Paopao/paopao_android/IM/build.gradle" timestamp="1507537851368" />
@@ -235,11 +182,6 @@
         <mark key="." line="0" column="12" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/CommentBarPresenter.java" timestamp="1507521832301" />
-      <file name="E:/android-architecture/BitmapOp/app/src/main/java/com/example/dongzesong/bitmapop/ExceptionUtils.java" timestamp="1504705030004">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="216" column="14" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
