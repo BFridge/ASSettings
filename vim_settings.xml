@@ -7,6 +7,11 @@
       <file name="/a.dummy" timestamp="1506753337689">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/reactnative/QYReactGroupDetailsActivity.java" timestamp="1507631417328">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="E:/Paopao/qiyivideo/app/QYVideoClient/src/com/qiyi/video/pages/category/BottomCategoryNaviUIPage.java" timestamp="1506671957307" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/module/detail/IDetailAction.java" timestamp="1505740803005">
         <mark key="[" line="44" column="0" />
@@ -125,6 +130,11 @@
       <file name="E:/Paopao/qiyivideo/biz/Player/QYPlayerCardView/src/com/iqiyi/qyplayercardview/portraitv3/presenter/CommentPresenter.java" timestamp="1506692021073" />
       <file name="E:/Paopao/qiyivideo/app/QYVideoClient/src/com/qiyi/video/pages/WebPage.java" timestamp="1506671319716" />
       <file name="E:/Paopao/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/lib/common/http/parser/BaseParser.java" timestamp="1506758115215" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/reactnative/reflectmodule/QYReactRedirectModule.java" timestamp="1507631407698">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="E:/Paopao/qiyivideo/app/QYVideoClient/src/org/qiyi/android/video/pagemgr/BaseMainUIPage.java" timestamp="1506672425806" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/activity/GeneralCircleActivity.java" timestamp="1506666852666" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/performance/fps/FrameCounter.java" timestamp="1506673196857">
@@ -167,6 +177,11 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="702" column="63" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/userpage/ui/activity/PaopaoUserInfoActivity.java" timestamp="1507631381587">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/utils/PPFeedTools.java" timestamp="1507623960608">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -190,7 +205,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/CommentBarPresenter.java" timestamp="1507626763890">
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/CommentBarPresenter.java" timestamp="1507631212919">
         <mark key="." line="448" column="118" />
       </file>
     </filemarks>
@@ -267,7 +282,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLnBwcm91dGVyLlVzZXJJbmZvSnVtcGVyOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -276,31 +291,31 @@
         <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucHBfbGV2ZWxfaWNvbl9sYXlvdXQsIHRoaXMsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLnBwcm91dGVyLlVzZXJJbmZvSnVtcGVyOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5jaGF0Lm1vZGVsLmVudGl0eS5TdGFyQnVsbGV0aW47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5jaGF0Lm1vZGVsLmVudGl0eS5QYW9QYW87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PT09PT09PQoKaW1wb3J0IG9yZy5xaXlpLmJhc2Vjb3JlLnV0aWxzLlN0cmluZ1V0aWxzOwppbXBvcnQgb3JnLnFpeWkuYmFzZWNvcmUud2lkZ2V0LnB0ci53aWRnZXQuUHRyU2ltcGxlTGlzdFZpZXc7CmltcG9ydCBvcmcucWl5aS52aWRlby5tb2R1bGUucGFvcGFvLmV4YmVhbi5QYW9QYW9BcGlDb25zdGFudHM7CgppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKPj4+Pj4+PiBtYXN0ZXI=</text>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20uaXFpeWkucGFvcGFvLnVzZXJwYWdlLnV0aWxzLlVzZXJJbmZvSnVtcGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5jaGF0Lm1vZGVsLmVudGl0eS5QYW9QYW87CmltcG9ydCBjb20uaXFpeWkuaW0uZGIuZGFvLklNRGFvOwo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLnV0aWxzLlVzZXJJbmZvVXRpbHM7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20uaXFpeWkucGFvcGFvLmNvbW1vbi51dGlscy5QUEp1bXBlcjsKPT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
