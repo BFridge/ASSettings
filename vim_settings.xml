@@ -51,7 +51,7 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="84" column="52" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/values/strings.xml" timestamp="1507542191573" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/values/strings.xml" timestamp="1507619369005" />
       <file name="E:/Paopao/qiyivideo/biz/Player/QYPlayerCardView/src/com/iqiyi/qyplayercardview/portraitv3/presenter/CommentPresenter.java" timestamp="1506692021073" />
       <file name="E:/Paopao/qiyivideo/app/QYVideoClient/src/com/qiyi/video/pages/WebPage.java" timestamp="1506671319716" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/res/layout/pp_feed_comment_item.xml" timestamp="1506653005224">
@@ -83,7 +83,6 @@
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/activity/GeneralCircleActivity.java" timestamp="1506666852666" />
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/http/parser/TrailDetailParser.java" timestamp="1506757802016" />
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/app/PPApp.java" timestamp="1507538225039" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsConfiguration.java" timestamp="1505984162006">
         <mark key="[" line="64" column="7" />
         <mark key="]" line="64" column="7" />
@@ -125,7 +124,8 @@
         <mark key="^" line="402" column="63" />
         <mark key="." line="372" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507533540116">
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentImagePreview.java" timestamp="1507618592907" />
+      <file name="/Dummy.txt" timestamp="1507620097693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -154,12 +154,6 @@
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="73" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/common/helper/CommentFeedHost.java" timestamp="1507543196179">
-        <mark key="[" line="82" column="9" />
-        <mark key="]" line="85" column="7" />
-        <mark key="." line="85" column="7" />
-        <mark key="^" line="85" column="7" />
-      </file>
       <file name="E:/Paopao/paopao_android/paopao_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/NineGridImageView.java" timestamp="1506674282486" />
       <file name="E:/Paopao/paopao_android/IM/build.gradle" timestamp="1507537851368" />
       <file name="E:/Paopao/qiyivideo/biz/Player/QYPlayerCardView/src/com/iqiyi/qyplayercardview/portraitv3/view/CommentPanel.java" timestamp="1506690919104" />
@@ -181,7 +175,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/CommentBarPresenter.java" timestamp="1507521832301" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/CommentBarPresenter.java" timestamp="1507620119564" />
     </filemarks>
     <jumps>
       <jump line="216" column="14" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
@@ -256,13 +250,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucHBfbGV2ZWxfaWNvbl9sYXlvdXQsIHRoaXMsIHRydWUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KFBQQ29uc3RhbnRzLlFZUElEX0tFWSwgUFBDb25zdGFudHMuUVlfUElEKTsvL9TGv9jH68fzsdi0q7XEss7K/Qo=</text>
+        <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucHBfbGV2ZWxfaWNvbl9sYXlvdXQsIHRoaXMsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
