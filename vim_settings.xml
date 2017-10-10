@@ -43,16 +43,31 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/login/PPLoginUtils.java" timestamp="1507623564169">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="E:/Paopao/qiyivideo/app/QYVideoClient/src/com/qiyi/video/pages/CommonCardPage.java" timestamp="1506673040123" />
       <file name="E:/Paopao/paopao_android/paopao_common_library/extLibs/allclasses.jar!/org/qiyi/basecard/v3/page/BasePage.class" timestamp="1506669449673" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/cardv3/action/PaoPaoCardEventHelper.java" timestamp="1507623492725">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/utils/PPCommonJsonParser.java" timestamp="1506064544107">
         <mark key="[" line="570" column="40" />
         <mark key="]" line="570" column="41" />
         <mark key="." line="570" column="41" />
         <mark key="^" line="570" column="41" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/homepage/ui/fragment/PPHomeExploreFragment.java" timestamp="1507623681193">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/http/parser/TrailDetailParser.java" timestamp="1506757802016" />
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/entity/CommentEntity.java" timestamp="1507621727003">
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/entity/CommentEntity.java" timestamp="1507623627532">
         <mark key="[" line="293" column="39" />
         <mark key="]" line="294" column="4" />
         <mark key="." line="294" column="4" />
@@ -68,7 +83,12 @@
         <mark key="]" line="55" column="97" />
         <mark key="." line="80" column="81" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/starwall/utils/CommonCircleHelper.java" timestamp="1507620390726">
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/im/CallBackForIM.java" timestamp="1507623888017">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/starwall/utils/CommonCircleHelper.java" timestamp="1507624793078">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -120,6 +140,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="733" column="75" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/api/PaoPaoApiCallBackHelper.java" timestamp="1507623173903">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_common_library/extLibs/allclasses.jar!/org/qiyi/basecard/v3/adapter/ICardAdapter.class" timestamp="1506695582134" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/cardv3/action/PaoPaoBaseCardEventHelper.java" timestamp="1507620408908">
@@ -239,7 +264,7 @@
         <mark key="^" line="558" column="67" />
         <mark key="." line="598" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507620097693">
+      <file name="/Dummy.txt" timestamp="1507623750393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -256,7 +281,13 @@
         <mark key="." line="304" column="0" />
         <mark key="^" line="276" column="7" />
       </file>
-      <file name="/a.regexp" timestamp="1507622163723">
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/utils/PPFeedTools.java" timestamp="1507623960608">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/http/HttpRequests.java" timestamp="1507624297242" />
+      <file name="/a.regexp" timestamp="1507623607891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/IM/build.gradle" timestamp="1507537851368" />
@@ -348,40 +379,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5jaGF0Lm1vZGVsLmVudGl0eS5QYW9QYW87CmltcG9ydCBjb20uaXFpeWkuaW0uY2hhdC5tb2RlbC5lbnRpdHkuU3RhckJ1bGxldGluOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLnBwcm91dGVyLlVzZXJJbmZvSnVtcGVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text />
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucHBfbGV2ZWxfaWNvbl9sYXlvdXQsIHRoaXMsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5jaGF0Lm1vZGVsLmVudGl0eS5QYW9QYW87CmltcG9ydCBjb20uaXFpeWkuaW0uY2hhdC5tb2RlbC5lbnRpdHkuU3RhckJ1bGxldGluOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLnBwcm91dGVyLlVzZXJJbmZvSnVtcGVyOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaC5pbWFnZUF2YXRhclByaXZhdGUuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PT09PT09PQoKaW1wb3J0IG9yZy5xaXlpLmJhc2Vjb3JlLnV0aWxzLlN0cmluZ1V0aWxzOwppbXBvcnQgb3JnLnFpeWkuYmFzZWNvcmUud2lkZ2V0LnB0ci53aWRnZXQuUHRyU2ltcGxlTGlzdFZpZXc7CmltcG9ydCBvcmcucWl5aS52aWRlby5tb2R1bGUucGFvcGFvLmV4YmVhbi5QYW9QYW9BcGlDb25zdGFudHM7CgppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKPj4+Pj4+PiBtYXN0ZXI=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgIFBhb1BhbyBwYW9wYW8gPSAoUGFvUGFvKSBlbnRpdHkuZ2V0T2JqZWN0KCk7CiAgICAgICAgICAgIGlmIChwYW9wYW8gPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcGFvcGFvID0gSU1EYW8uZ3JvdXAuZ2V0R3JvdXAoZW50aXR5LmdldFNlc3Npb25JZCgpKTsKICAgICAgICAgICAgICAgIGVudGl0eS5zZXRPYmplY3QocGFvcGFvKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20uaXFpeWkucGFvcGFvLnVzZXJwYWdlLnV0aWxzLlVzZXJJbmZvSnVtcGVyOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIGguaW1hZ2VBdmF0YXJQcml2YXRlLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsKPT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uY29tbW9uLnV0aWxzLlVzZXJJbmZvVXRpbHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20uaXFpeWkucGFvcGFvLmNvbW1vbi51dGlscy5QUEp1bXBlcjsKPT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
