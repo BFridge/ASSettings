@@ -9,10 +9,19 @@
         <mark key="^" line="123" column="97" />
         <mark key="." line="123" column="97" />
       </file>
+      <file name="/a.dummy" timestamp="1507726435938">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/res/layout/pp_crow_funding_profile_layout.xml" timestamp="1504700060655">
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="43" />
         <mark key="." line="222" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/holder/CommentsLogicHolder.java" timestamp="1507723852837">
+        <mark key="[" line="483" column="19" />
+        <mark key="]" line="483" column="22" />
+        <mark key="." line="483" column="22" />
+        <mark key="^" line="483" column="22" />
       </file>
       <file name="E:/Paopao/qiyivideo/gradle/wrapper/gradle-wrapper.properties" timestamp="1505977733965">
         <mark key="[" line="5" column="68" />
@@ -54,6 +63,12 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/CommentsFragment.java" timestamp="1507723842310">
+        <mark key="[" line="432" column="0" />
+        <mark key="]" line="432" column="0" />
+        <mark key="^" line="420" column="75" />
+        <mark key="." line="432" column="0" />
+      </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/callback/PPLevelJsBridge.java" timestamp="1505394062033">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -91,6 +106,11 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/StarRankCommentsFragment.java" timestamp="1507726335491">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsConfiguration.java" timestamp="1505984162006">
         <mark key="[" line="64" column="7" />
@@ -135,7 +155,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" timestamp="1507710931275" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" timestamp="1507725926954">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="545" column="41" />
+        <mark key="]" line="545" column="40" />
+        <mark key="." line="545" column="40" />
+        <mark key="^" line="545" column="40" />
+      </file>
       <file name="E:/Paopao/qiyivideo/settings.gradle" timestamp="1505702601975">
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="0" />
@@ -223,7 +249,14 @@
         <mark key="." line="411" column="45" />
         <mark key="^" line="413" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1506673108279">
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" timestamp="1507724804195">
+        <mark key="'" line="394" column="28" />
+        <mark key="[" line="1712" column="37" />
+        <mark key="]" line="188" column="35" />
+        <mark key="." line="188" column="35" />
+        <mark key="^" line="188" column="35" />
+      </file>
+      <file name="/fragment.java" timestamp="1507722840759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="11" />
@@ -308,43 +341,60 @@
       <jump line="707" column="8" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" />
       <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/frag/FeedDetailFragment.java" />
       <jump line="129" column="13" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/TrailDetailPresenter.java" />
+      <jump line="532" column="4" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" />
+      <jump line="394" column="28" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" />
+      <jump line="134" column="134" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" />
+      <jump line="131" column="14" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" />
+      <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGZlZWQgPT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>feed</text>
+        <text>implements CommentsLogicHolder.ICommentPage {</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucHBfbGV2ZWxfaWNvbl9sYXlvdXQsIHRoaXMsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGZlZWQgPT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihmZWVkID09IG51bGwpewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRhID09IG51bGwpewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text>@Override
+        public boolean hasFinishLoading() {
+            //不需要定位，所以
+            return false;
+        }</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>@Override
+        public void onLoadCommentsError() {
+    
+        }
+
+        @Override
+        public void onReloadCommentsSuccess() {
+    
+        }</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc0hhbGZNb2RlKCkgewogICAgICAgICAgICByZXR1cm4gZmEKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5xaXlpLmFuZHJvaWQuY2FyZC52aWRlby5DYXJkVmlkZW9QbGF5ZXJNYW5hZ2VyOwppbXBvcnQgb3JnLnFpeWkuYmFzZWNhcmQuY29tbW9uLnZpZGVvLmRlZmF1bHRzLnBsYXllci5hYnMuSUNhcmRWaWRlb01hbmFnZXI7CmltcG9ydCBvcmcucWl5aS5iYXNlY2FyZC5jb21tb24udmlkZW8uZGVmYXVsdHMucGxheWVyLmFicy5JQ2FyZFZpZGVvTWFuYWdlclBhZ2U7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
