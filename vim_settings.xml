@@ -229,11 +229,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/AbsHalfDetailHelper.java" timestamp="1507818656791">
-        <mark key="[" line="158" column="50" />
-        <mark key="]" line="159" column="41" />
-        <mark key="." line="159" column="41" />
-        <mark key="^" line="159" column="41" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/AbsHalfDetailHelper.java" timestamp="1507819302350">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="186" column="20" />
+        <mark key="." line="186" column="20" />
+        <mark key="^" line="186" column="20" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsLogicHolder.java" timestamp="1506592334865">
         <mark key="[" line="372" column="12" />
@@ -418,40 +418,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8ubGliLmNvbW1vbi51dGlscy5LZXlCb2FyZFV0aWxzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>public</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFic0hhbGZEZXRhaWxIZWxwZXIucG9wQmFja1N0YWNrSW5DaGlsZChtRnJhZ21lbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8ubGliLmNvbW1vbi51dGlscy5LZXlCb2FyZFV0aWxzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUFjdGlvbi5vbkFsbFBhZ2VDbG9zZWQoKTsK</text>
+        <text encoding="base64">ICogMS4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0QmFja1N0YWNrRW50cnlDb3VudCgpewogICAgICAgIGlmKCFtRnJhZ21lbnQuaXNBZGRlZCgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgICAgICBGcmFnbWVudE1hbmFnZXIgZm0gPSBtRnJhZ21lbnQuZ2V0Q2hpbGRGcmFnbWVudE1hbmFnZXIoKTsKICAgICAgICByZXR1cm4gZm0uZ2V0QmFja1N0YWNrRW50cnlDb3VudCgpOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGdldG1DdXJIYWxmUGFnZUNvdW50KCkgewogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEN1ckhhbGZQYWdlQ291bnQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0bUN1ckhhbGZQYWdlQ291bnQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdldEN1ckhhbGZQYWdlQ291bnQoKSA+IDEpewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbUN1ckhhbGZQYWdlQ291bnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEN1ckhhbGZQYWdlQ291bnQoZ2V0Q3VySGFsZlBhZ2VDb3VudCgpIC0gMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaXNEZXRhaWxQYWdlU2hvdyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUFjdGlvbi5vbkFsbFBhZ2VDbG9zZWQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
