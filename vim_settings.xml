@@ -9,7 +9,7 @@
         <mark key="^" line="123" column="97" />
         <mark key="." line="123" column="97" />
       </file>
-      <file name="/a.dummy" timestamp="1507809948419">
+      <file name="/a.dummy" timestamp="1507812269623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/res/layout/pp_crow_funding_profile_layout.xml" timestamp="1504700060655">
@@ -229,12 +229,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/AbsHalfDetailHelper.java" timestamp="1507812150278">
-        <mark key="'" line="98" column="64" />
-        <mark key="[" line="78" column="5" />
-        <mark key="]" line="161" column="11" />
-        <mark key="^" line="161" column="11" />
-        <mark key="." line="161" column="11" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/AbsHalfDetailHelper.java" timestamp="1507812539084">
+        <mark key="'" line="100" column="64" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsLogicHolder.java" timestamp="1506592334865">
         <mark key="[" line="372" column="12" />
@@ -253,7 +252,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507807767042">
+      <file name="/Dummy.txt" timestamp="1507812275796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Paopao/qiyivideo/component/Card/QYCardV3/src/org/qiyi/card/v3/block/blockmodel/Block125Model.java" timestamp="1505879169029">
@@ -315,7 +314,7 @@
         <mark key="^" line="1683" column="74" />
         <mark key="." line="1697" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507801884122">
+      <file name="/fragment.java" timestamp="1507812275787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="11" />
@@ -420,48 +419,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvIMrVwbLV4sDvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgQWJzSGFsZkRldGFpbEhlbHBlci5wb3BCYWNrU3RhY2tJbkNoaWxkKGZhbHNlLCBwcENpcmNsZUZyYWdtZW50KSkgew==</text>
+        <text>thr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1EeW5hbWljRnJhZ21lbnQhPW51bGwpewogICAgICAgICAgICAgICAgICAgIG1EeW5hbWljRnJhZ21lbnQub25QYXVzZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvIMrVwbLV4sDvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZihiYWNrU3RhY2tFbnRyeUNvdW50ICE9IG1DdXJIYWxmUGFnZUNvdW50KXsKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9ncwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlBY3Rpb24ucmVzdW1lRHluYW1pYygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigic2hpdHNoaXQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoInNoaXRzaGl0IiwgImdldG1DdXJIYWxmUGFnZUNvdW50OiAiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>//外部信息
-    public interface IAction{
-        void resumeDynamic();
-        void pauseDynamic();
-        QZDrawerView getDrawerView();
-        int getVideoHeight();
-        void showPublish();
-        SWPublishFloatingBar getPublishBar();
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBJQWN0aW9uIG1JQWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBpbnQgbUN1ckhhbGZQYWdlQ291bnQgPSAwOy8vu9jNy9W71tDT0Ly4uPaw68bBRnJhZ21lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtSUFjdGlvbi5wYXVzZUR5bmFtaWMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
