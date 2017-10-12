@@ -96,6 +96,12 @@
         <mark key="." line="570" column="41" />
         <mark key="^" line="570" column="41" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/helper/QZHelper.java" timestamp="1507773634754">
+        <mark key="[" line="1636" column="25" />
+        <mark key="]" line="1637" column="15" />
+        <mark key="." line="1637" column="15" />
+        <mark key="^" line="1637" column="15" />
+      </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/models/CommentRepository.java" timestamp="1506498823943">
         <mark key="[" line="243" column="0" />
         <mark key="]" line="243" column="0" />
@@ -155,12 +161,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" timestamp="1507725926954">
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" timestamp="1507773337731">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="545" column="41" />
-        <mark key="]" line="545" column="40" />
-        <mark key="." line="545" column="40" />
-        <mark key="^" line="545" column="40" />
+        <mark key="[" line="544" column="0" />
+        <mark key="]" line="544" column="0" />
+        <mark key="." line="544" column="0" />
       </file>
       <file name="E:/Paopao/qiyivideo/settings.gradle" timestamp="1505702601975">
         <mark key="[" line="183" column="0" />
@@ -357,7 +362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1TdHlsZSA9PSAgU1RZTEVfVklERU9fQ0lSQ0xFIHx8IG1Jc0ZlZWRWaWRlbykgewogICAgICAgICAgICAgICAgbUF1dG9IZWlnaHRWaWV3LnNldFN0eWxlKENvbW1lbnRBdXRvSGVpZ2h0TGF5b3V0LlNUWUxFX0hBTEZfU0NSRUVOKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -366,33 +371,33 @@
         <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucHBfbGV2ZWxfaWNvbl9sYXlvdXQsIHRoaXMsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1TdHlsZSA9PSAgU1RZTEVfVklERU9fQ0lSQ0xFIHx8IG1Jc0ZlZWRWaWRlbykgewogICAgICAgICAgICAgICAgbUF1dG9IZWlnaHRWaWV3LnNldFN0eWxlKENvbW1lbnRBdXRvSGVpZ2h0TGF5b3V0LlNUWUxFX0hBTEZfU0NSRUVOKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgYm9vbGVhbiBoYXNGaW5pc2hMb2FkaW5nKCkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBDb21tZW50UGFnZVN0YXR1c3sKICAgICAgICAvL8rHt/HKx7DrxsHEo8q9LMjnufu38aOsvfjI6828xqzRodTxu/LV3828xqzUpMDA0rO2vLvhvfjI68irxsEKICAgICAgICBib29sZWFuIGlzSGFsZk1vZGUoKTsKCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1TdHlsZSA9PSAgU1RZTEVfVklERU9fQ0lSQ0xFIHx8IG1Jc0ZlZWRWaWRlbykgewogICAgICAgICAgICAgICAgbUF1dG9IZWlnaHRWaWV3LnNldFN0eWxlKENvbW1lbnRBdXRvSGVpZ2h0TGF5b3V0LlNUWUxFX0hBTEZfU0NSRUVOKTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgYm9vbGVhbiBoYXNGaW5pc2hMb2FkaW5nKCkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uQ29tbWVudHNDb3VudENoYW5nZShsb25nIGNvdW50KSB7CiAgICAKICAgICAgICB9CgogICAgICAgIA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>public boolean isHalfMode() {
             
         }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEhvdENvbW1lbnRzQWN0aXZpdHkudGhpcy5pc0hhbGZNb2RlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGhhc0ZpbmlzaExvYWRpbmcoKSB7CiAgICAgICAgcmV0dXJuIGNvbW1lbnQuaGFzRmluaXNoTG9hZGluZygpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIG9uTG9hZENvbW1lbnRzRXJyb3IoKSB7CiAgICAgICAgY29tbWVudC5vbkxvYWRDb21tZW50c0Vycm9yKCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgb25SZWxvYWRDb21tZW50c1N1Y2Nlc3MoKSB7CiAgICAgICAgY29tbWVudC5vblJlbG9hZENvbW1lbnRzU3VjY2VzcygpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIG9uQ29tbWVudHNDb3VudENoYW5nZShsb25nIGNvdW50KSB7CiAgICAgICAgY29tbWVudC5vbkNvbW1lbnRzQ291bnRDaGFuZ2UoY291bnQpOwogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
