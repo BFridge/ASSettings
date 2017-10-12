@@ -146,11 +146,11 @@
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/common/helper/FeedDetailHelper.java" timestamp="1507774579893">
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="18" column="44" />
-        <mark key="^" line="18" column="44" />
-        <mark key="." line="18" column="44" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/common/helper/FeedDetailHelper.java" timestamp="1507775676186">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/interfaces/ICommentHost.java" timestamp="1505983963356">
         <mark key="[" line="62" column="0" />
@@ -164,11 +164,11 @@
         <mark key="." line="116" column="27" />
         <mark key="^" line="116" column="27" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/FeedDetailVideoPresenter.java" timestamp="1507774608376">
-        <mark key="[" line="644" column="36" />
-        <mark key="]" line="646" column="7" />
-        <mark key="^" line="646" column="7" />
-        <mark key="." line="646" column="7" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/FeedDetailVideoPresenter.java" timestamp="1507775775745">
+        <mark key="[" line="645" column="129" />
+        <mark key="]" line="645" column="129" />
+        <mark key="^" line="645" column="129" />
+        <mark key="." line="645" column="129" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_circle/src/main/java/com/iqiyi/paopao/starwall/ui/adapter/QZVideoCircleRecMovAdapter.java" timestamp="1507774881938" />
       <file name="E:/Paopao/qiyivideo/build.gradle" timestamp="1505976967852">
@@ -258,7 +258,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_circle/src/main/java/com/iqiyi/paopao/starwall/ui/view/PPVideoCircleCustomHeaderView.java" timestamp="1507774031473" />
+      <file name="E:/Paopao/paopao_android/paopao_circle/src/main/java/com/iqiyi/paopao/starwall/ui/view/PPVideoCircleCustomHeaderView.java" timestamp="1507775752649" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleHeaderView.java" timestamp="1507774660770">
         <mark key="'" line="159" column="17" />
       </file>
@@ -388,41 +388,41 @@
       <jump line="159" column="17" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleHeaderView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VuCg==</text>
+      <register name="&quot;" type="4">
+        <text>PAUSE</text>
       </register>
       <register name="-" type="4">
-        <text>shouldShowHa</text>
+        <text>PAUSE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucHBfbGV2ZWxfaWNvbl9sYXlvdXQsIHRoaXMsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZWxzZXsKICAgICAgICAgICAgICAgIC8vyOe5+8rH1NrP6sfp0rMKICAgICAgICAgICAgICAgIAoKCgoKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmlkZW9QcmVzZW50ZXIuaXNWaWRlb1plcm9TdGF0ZSgpID09IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2VuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZWxzZXsKICAgICAgICAgICAgICAgIC8vyOe5+8rH1NrP6sfp0rMKICAgICAgICAgICAgICAgIAoKCgoKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBDb21tZW50UGFnZVN0YXR1c3sKICAgICAgICAvL8rHt/HKx7DrxsHEo8q9LMjnufu38aOsvfjI6828xqzRodTxu/LV3828xqzUpMDA0rO2vLvhvfjI68irxsEKICAgICAgICBib29sZWFuIGlzSGFsZk1vZGUoKTsKCiAgICB9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
