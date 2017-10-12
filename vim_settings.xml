@@ -118,6 +118,7 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/build/intermediates/bundles/release/res/layout/pp_gc_feed_sight_video_layout.xml" timestamp="1507822425657" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsConfiguration.java" timestamp="1505984162006">
         <mark key="[" line="64" column="7" />
         <mark key="]" line="64" column="7" />
@@ -247,7 +248,7 @@
         <mark key="." line="94" column="7" />
         <mark key="^" line="94" column="7" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/HalfDetailFragment.java" timestamp="1507820891737">
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/HalfDetailFragment.java" timestamp="1507822402554">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
@@ -300,7 +301,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/res/layout/pp_fragment_half_detail.xml" timestamp="1507820656328" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/performance/fps/FrameCountMonitor.java" timestamp="1506049647777">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="35" />
@@ -319,11 +319,11 @@
         <mark key="]" line="601" column="0" />
         <mark key="." line="601" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507821782935">
+      <file name="/fragment.java" timestamp="1507822446685">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="E:/android-architecture/BitmapOp/app/src/main/java/com/example/dongzesong/bitmapop/ExceptionUtils.java" timestamp="1504705030004">
         <mark key="[" line="4" column="0" />
