@@ -9,7 +9,7 @@
         <mark key="^" line="123" column="97" />
         <mark key="." line="123" column="97" />
       </file>
-      <file name="/a.dummy" timestamp="1507815098167">
+      <file name="/a.dummy" timestamp="1507818269223">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/res/layout/pp_crow_funding_profile_layout.xml" timestamp="1504700060655">
@@ -201,7 +201,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleBodyView.java" timestamp="1507810181994">
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleBodyView.java" timestamp="1507817851850">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
@@ -229,11 +229,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/AbsHalfDetailHelper.java" timestamp="1507816737778">
-        <mark key="'" line="99" column="64" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/AbsHalfDetailHelper.java" timestamp="1507818656791">
+        <mark key="[" line="158" column="50" />
+        <mark key="]" line="159" column="41" />
+        <mark key="." line="159" column="41" />
+        <mark key="^" line="159" column="41" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/holder/CommentsLogicHolder.java" timestamp="1506592334865">
         <mark key="[" line="372" column="12" />
@@ -418,40 +418,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmbS5wb3BCYWNrU3RhY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>protected</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFic0hhbGZEZXRhaWxIZWxwZXIucG9wQmFja1N0YWNrSW5DaGlsZChtRnJhZ21lbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmbS5wb3BCYWNrU3RhY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoYWxmRGV0YWlsSGVscGVyID0gbmV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUFjdGlvbi5vbkFsbFBhZ2VDbG9zZWQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0QmFja1N0YWNrRW50cnlDb3VudCgpewogICAgICAgIGlmKCFtRnJhZ21lbnQuaXNBZGRlZCgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgICAgICBGcmFnbWVudE1hbmFnZXIgZm0gPSBtRnJhZ21lbnQuZ2V0Q2hpbGRGcmFnbWVudE1hbmFnZXIoKTsKICAgICAgICByZXR1cm4gZm0uZ2V0QmFja1N0YWNrRW50cnlDb3VudCgpOwogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEN1ckhhbGZQYWdlQ291bnQoMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdldEN1ckhhbGZQYWdlQ291bnQoKSA+IDEpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uUGFnZUNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEN1ckhhbGZQYWdlQ291bnQoZ2V0Q3VySGFsZlBhZ2VDb3VudCgpIC0gMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaXNEZXRhaWxQYWdlU2hvdyA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFic0hhbGZEZXRhaWxIZWxwZXIucG9wQmFja1N0YWNrSW5DaGlsZChtRnJhZ21lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
