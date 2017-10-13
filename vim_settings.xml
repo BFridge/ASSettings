@@ -62,10 +62,10 @@
         <mark key="." line="79" column="48" />
         <mark key="^" line="79" column="48" />
       </file>
-      <file name="E:/Paopao/paopao_android/IM/src/main/java/com/iqiyi/im/ui/activity/PaoPaoSelectActivity.java" timestamp="1507866179943">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="E:/Paopao/paopao_android/IM/src/main/java/com/iqiyi/im/ui/activity/PaoPaoSelectActivity.java" timestamp="1507872055783">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/model/CommentRepository.java" timestamp="1507859062842">
         <mark key="[" line="247" column="81" />
@@ -105,10 +105,10 @@
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/helper/QZHelper.java" timestamp="1507859057404">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1609" column="47" />
-        <mark key="]" line="1610" column="27" />
-        <mark key="^" line="1610" column="27" />
-        <mark key="." line="1610" column="27" />
+        <mark key="[" line="1611" column="47" />
+        <mark key="]" line="1612" column="27" />
+        <mark key="^" line="1612" column="27" />
+        <mark key="." line="1612" column="27" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/models/CommentRepository.java" timestamp="1506498823943">
         <mark key="[" line="243" column="0" />
@@ -187,11 +187,11 @@
         <mark key="." line="149" column="7" />
         <mark key="^" line="149" column="7" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleBodyView.java" timestamp="1507866190207">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="81" column="55" />
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleBodyView.java" timestamp="1507872186091">
+        <mark key="'" line="196" column="21" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/ViewMoreLayout.java" timestamp="1506071889212">
         <mark key="[" line="88" column="23" />
@@ -262,6 +262,9 @@
         <mark key="]" line="185" column="19" />
         <mark key="." line="185" column="19" />
         <mark key="^" line="33" column="40" />
+      </file>
+      <file name="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" timestamp="1507872507280">
+        <mark key="'" line="30" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/performance/fps/FrameCountMonitor.java" timestamp="1506049647777">
         <mark key="[" line="18" column="22" />
@@ -385,40 +388,44 @@
       <jump line="145" column="30" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/DownLoadViewPagerFragment.java" />
       <jump line="26" column="19" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/DownLoadViewPagerFragment.java" />
       <jump line="694" column="7" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" />
+      <jump line="189" column="21" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleBodyView.java" />
+      <jump line="91" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
+      <jump line="30" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkMDFmYjU3Li4uIFJFUTpQQU9QQU9BTkRST0lELTExMTIgxsDC29ans9a3orK80rvVxc28xqw6cGFvcGFvX2ZlZWQvc3JjL21haW4vamF2YS9jb20vaXFpeWkvZmVlZC91aS9mcmFnbWVudC9Eb3duTG9hZFZpZXdQYWdlckZyYWdtZW50LmphdmEK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uc3RhcndhbGwudWkuaGVscGVyLkhhbGZEZXRhaWxIZWxwZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mHalfDetailHelper</text>
+        <text>qi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9VUkwgPSAiY3VycmVudFVybCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkMDFmYjU3Li4uIFJFUTpQQU9QQU9BTkRST0lELTExMTIgxsDC29ans9a3orK80rvVxc28xqw6cGFvcGFvX2ZlZWQvc3JjL21haW4vamF2YS9jb20vaXFpeWkvZmVlZC91aS9mcmFnbWVudC9Eb3duTG9hZFZpZXdQYWdlckZyYWdtZW50LmphdmEK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uc3RhcndhbGwudWkuaGVscGVyLkhhbGZEZXRhaWxIZWxwZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnBhb3Bhb19hbmRyb2lkL3NyYy9tYWluL2phdmEvY29tL2lxaXlpL3Bhb3Bhby9jb21tb24vdWkvZnJhZy9Eb3duTG9hZFZpZXdQYWdlckZyYWdtZW50LmphdmEKICAgICAgICAgICAgICAgIEZlZWRKdW1wSGVscGVyLmdvMlBQRGV0YWlsQWN0aXZpdHkobUFjdGl2aXR5LCBtRmVlZCwgMCwgZmFsc2UsIDAsIDAsICIiKTsKPT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8ubGliLmNvbW1vbi51aS52aWV3LnB1bGxyZWZyZXNoLlFaRHJhd2VyVmlldzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5peWkucGFvcGFvLmxpYi5jb21tb24udWkudmlldy5wdWJsaXNoYmFyLlNXUHVibGlzaEZsb2F0aW5nQmFyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uc3RhcndhbGwudWkuZnJhZy5QUENpcmNsZVRhYnNCb2R5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkMDFmYjU3Li4uIFJFUTpQQU9QQU9BTkRST0lELTExMTIgxsDC29ans9a3orK80rvVxc28xqwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5kYi5kYW8uSU1EYW87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5lbnRpdHkuTWVkaWFSZXM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5jaGF0Lm1vZGVsLmVudGl0eS5QYW9QYW87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkMDFmYjU3Li4uIFJFUTpQQU9QQU9BTkRST0lELTExMTIgxsDC29ans9a3orK80rvVxc28xqwK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkMDFmYjU3Li4uIFJFUTpQQU9QQU9BTkRST0lELTExMTIgxsDC29ans9a3orK80rvVxc28xqw6cGFvcGFvX2ZlZWQvc3JjL21haW4vamF2YS9jb20vaXFpeWkvZmVlZC91aS9mcmFnbWVudC9Eb3duTG9hZFZpZXdQYWdlckZyYWdtZW50LmphdmEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnBhb3Bhb19hbmRyb2lkL3NyYy9tYWluL2phdmEvY29tL2lxaXlpL3Bhb3Bhby9jb21tb24vdWkvZnJhZy9Eb3duTG9hZFZpZXdQYWdlckZyYWdtZW50LmphdmEKICAgICAgICAgICAgICAgIEZlZWRKdW1wSGVscGVyLmdvMlBQRGV0YWlsQWN0aXZpdHkobUFjdGl2aXR5LCBtRmVlZCwgMCwgZmFsc2UsIDAsIDAsICIiKTsKPT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
