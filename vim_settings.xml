@@ -6,7 +6,7 @@
       <file name="/a.dummy" timestamp="1507831395776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/layout/pp_fragment_feed_detail.xml" timestamp="1507860348125">
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/layout/pp_fragment_feed_detail.xml" timestamp="1507885203539">
         <mark key="[" line="103" column="43" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/DownLoadViewPagerFragment.java" timestamp="1507866212321">
@@ -82,7 +82,12 @@
         <mark key="." line="30" column="42" />
         <mark key="^" line="30" column="42" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" timestamp="1507883138288" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" timestamp="1507884353499" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/CommentBarPresenter.java" timestamp="1507883897098">
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="." line="364" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="184" column="16" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
@@ -187,8 +192,8 @@
       <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/model/CommentRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mImageList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>mImageList</text>
@@ -200,28 +205,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8ubGliLmNvbW1vbi5tYW5hZ2VyLkNsaWNrTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8ubGliLmNvbW1vbi5tYW5hZ2VyLkNsaWNrTWFuYWdlcjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4K</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
