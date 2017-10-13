@@ -263,8 +263,8 @@
         <mark key="." line="185" column="19" />
         <mark key="^" line="33" column="40" />
       </file>
-      <file name="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" timestamp="1507872507280">
-        <mark key="'" line="30" column="0" />
+      <file name="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" timestamp="1507874857050">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/performance/fps/FrameCountMonitor.java" timestamp="1506049647777">
         <mark key="[" line="18" column="22" />
@@ -390,8 +390,9 @@
       <jump line="694" column="7" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" />
       <jump line="189" column="21" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleBodyView.java" />
       <jump line="91" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
-      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
       <jump line="30" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
+      <jump line="102" column="8" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
+      <jump line="0" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
