@@ -31,6 +31,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/activity/FeedDetailActivity.java" timestamp="1507883171670">
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="88" column="28" />
+        <mark key="." line="88" column="28" />
+        <mark key="^" line="88" column="28" />
+      </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/res/layout/pp_qiyi_comment_bar.xml" timestamp="1507880554177" />
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" timestamp="1507882630729">
         <mark key="[" line="153" column="8" />
@@ -76,6 +82,7 @@
         <mark key="." line="30" column="42" />
         <mark key="^" line="30" column="42" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" timestamp="1507883138288" />
     </filemarks>
     <jumps>
       <jump line="184" column="16" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
