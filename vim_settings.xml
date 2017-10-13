@@ -6,8 +6,8 @@
       <file name="/a.dummy" timestamp="1507831395776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/layout/pp_fragment_feed_detail.xml" timestamp="1507859140150">
-        <mark key="[" line="55" column="64" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/layout/pp_fragment_feed_detail.xml" timestamp="1507860348125">
+        <mark key="[" line="103" column="43" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/layout/pp_fragment_sw_photo_pagerview.xml" timestamp="1507828330515">
         <mark key="[" line="66" column="38" />
@@ -73,7 +73,7 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="84" column="52" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_circle/src/main/res/layout/pp_video_circle_viewstub.xml" timestamp="1507830523270" />
+      <file name="E:/Paopao/paopao_android/paopao_circle/src/main/res/layout/pp_video_circle_viewstub.xml" timestamp="1507859209468" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/callback/PPLevelJsBridge.java" timestamp="1505394062033">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -220,12 +220,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" timestamp="1507832341448">
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" timestamp="1507859819862">
         <mark key="'" line="694" column="7" />
-        <mark key="[" line="698" column="35" />
-        <mark key="]" line="698" column="39" />
-        <mark key="." line="698" column="39" />
-        <mark key="^" line="698" column="39" />
+        <mark key="[" line="1099" column="63" />
+        <mark key="]" line="1099" column="110" />
+        <mark key="." line="1099" column="110" />
+        <mark key="^" line="1099" column="110" />
       </file>
       <file name="E:/android-architecture/BitmapOp/app/src/main/java/com/example/dongzesong/bitmapop/ExceptionUtils.java" timestamp="1504705030004">
         <mark key="[" line="4" column="0" />
@@ -261,6 +261,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/widget/WebViewVideoContainer.java" timestamp="1507859149318" />
       <file name="E:/Paopao/paopao_android/paopao_circle/src/main/java/com/iqiyi/paopao/starwall/ui/activity/QZFansCircleBeautyPicActivity.java" timestamp="1507827793728" />
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/pprouter/PPJumper.java" timestamp="1507620433164">
         <mark key="[" line="67" column="0" />
@@ -372,7 +373,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleBodyView.java" timestamp="1507829905097">
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/frag/videocircle/PPVideoCircleBodyView.java" timestamp="1507859171606">
         <mark key="[" line="84" column="32" />
         <mark key="]" line="84" column="55" />
         <mark key="." line="84" column="55" />
@@ -541,11 +542,11 @@
       <jump line="694" column="7" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/fragment/FeedDetailFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWVkaWFFbnRpdHkK</text>
+      <register name="&quot;" type="4">
+        <text>page</text>
       </register>
       <register name="-" type="4">
-        <text>Fragment</text>
+        <text>page</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9VUkwgPSAiY3VycmVudFVybCI7Cg==</text>
