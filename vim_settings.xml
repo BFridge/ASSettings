@@ -183,8 +183,8 @@
         <mark key="^" line="88" column="28" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/res/layout/pp_qiyi_comment_bar.xml" timestamp="1507880554177" />
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" timestamp="1507889009523">
-        <mark key="'" line="567" column="17" />
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/ui/view/CommentAutoHeightLayout.java" timestamp="1507893995376">
+        <mark key="'" line="566" column="17" />
         <mark key="[" line="179" column="131" />
         <mark key="]" line="180" column="51" />
         <mark key="." line="180" column="51" />
@@ -208,11 +208,11 @@
         <mark key="^" line="579" column="93" />
         <mark key="." line="579" column="93" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/AbsHalfDetailHelper.java" timestamp="1507889118099">
+      <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/helper/AbsHalfDetailHelper.java" timestamp="1507894071879">
         <mark key="[" line="83" column="40" />
-        <mark key="]" line="83" column="69" />
-        <mark key="." line="83" column="69" />
-        <mark key="^" line="83" column="69" />
+        <mark key="]" line="83" column="61" />
+        <mark key="." line="83" column="61" />
+        <mark key="^" line="83" column="61" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/detail/view/HorizontalPullHeadView.java" timestamp="1507825358867">
         <mark key="[" line="10" column="0" />
@@ -419,10 +419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PPApp</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>PPApp</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRmVlZERldGFpbFZpZGVvUHJlc2VudGVyIHZpZGVvUHJlc2VudGVyID0gKChGZWVkRGV0YWlsQWN0aXZpdHkpIGNvbnRleHQpLmdldFZpZGVvUHJlc2VudGVyKCk7CiAgICAgICAgICAgIGlmKHZpZGVvUHJlc2VudGVyIT1udWxsICYmIHZpZGVvUHJlc2VudGVyLmlzVmlkZW9QbGF5aW5nKCkpewo=</text>
