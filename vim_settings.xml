@@ -67,11 +67,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/model/CommentRepository.java" timestamp="1507859062842">
-        <mark key="[" line="247" column="81" />
-        <mark key="]" line="248" column="63" />
-        <mark key="." line="248" column="63" />
-        <mark key="^" line="248" column="63" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/model/CommentRepository.java" timestamp="1507875798591">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="245" column="14" />
+        <mark key="]" line="245" column="14" />
+        <mark key="." line="245" column="14" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/detail/ui/presenter/CommentBarPresenter.java" timestamp="1507714663213">
         <mark key="[" line="435" column="0" />
@@ -239,7 +239,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507866099134">
+      <file name="/Dummy.txt" timestamp="1507875710101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/presenter/TrailDetailPresenter.java" timestamp="1507533402301">
@@ -263,8 +263,12 @@
         <mark key="." line="185" column="19" />
         <mark key="^" line="33" column="40" />
       </file>
-      <file name="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" timestamp="1507874857050">
+      <file name="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" timestamp="1507875511829">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+        <mark key="^" line="30" column="42" />
       </file>
       <file name="E:/Paopao/paopao_android/paopao_middle_common_library/src/main/java/com/iqiyi/paopao/lib/common/stat/performance/fps/FrameCountMonitor.java" timestamp="1506049647777">
         <mark key="[" line="18" column="22" />
@@ -294,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="14" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
       <jump line="184" column="16" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
       <jump line="77" column="26" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/adapter/viewholder/CommentHolder.java" />
       <jump line="233" column="0" filename="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/common/ui/view/PPMultiNameView.java" />
@@ -393,43 +396,45 @@
       <jump line="30" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
       <jump line="102" column="8" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
       <jump line="0" column="0" filename="E:/Paopao/qiyivideo/biz/QYPaopao/src/main/java/com/qiyi/paopao/manager/PaoPaoManagerHelper.java" />
+      <jump line="239" column="21" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/model/CommentRepository.java" />
+      <jump line="0" column="0" filename="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/model/CommentRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uc3RhcndhbGwudWkuaGVscGVyLkhhbGZEZXRhaWxIZWxwZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>qi</text>
+        <text />
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9VUkwgPSAiY3VycmVudFVybCI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uc3RhcndhbGwudWkuaGVscGVyLkhhbGZEZXRhaWxIZWxwZXI7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8ubGliLmNvbW1vbi51aS52aWV3LnB1bGxyZWZyZXNoLlFaRHJhd2VyVmlldzsK</text>
+        <text encoding="base64">PDw8PDw8PCA4OTIzZGY5MDNlNDJlM2RiZTAzOWQ4ZjkyNGFjNWUxNzgwZWVjMzJmCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5peWkucGFvcGFvLmxpYi5jb21tb24udWkudmlldy5wdWJsaXNoYmFyLlNXUHVibGlzaEZsb2F0aW5nQmFyOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBpZihtSG9zdCBpbnN0YW5jZW9mIENvbW1lbnRGZWVkSG9zdCl7CiAgICAgICAgICAgICAgICBMaXN0PE1lZGlhRW50aXR5PiBtZWRpYUxpc3QgPSAoKENvbW1lbnRGZWVkSG9zdCkgbUhvc3QpLmdldEZlZWQoKS5nZXRNZWRpYUxpc3QoKTsKICAgICAgICAgICAgICAgIGlmKG1lZGlhTGlzdCAhPSBudWxsKXsKICAgICAgICAgICAgICAgICAgICBmb3IoaW50IGluZGV4ID0gMDsgaW5kZXggPCBtZWRpYUxpc3Quc2l6ZSgpIDsgaW5kZXggKyspewogICAgICAgICAgICAgICAgICAgICAgICBpZihpbmRleCA+IGNvbW1lbnRMaXN0LnNpemUoKSl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBjb21tZW50TGlzdC5nZXQoaW5kZXgpLnNldE1lZGlhRW50aXR5KG1lZGlhTGlzdC5nZXQoaW5kZXgpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICBmb3IgKENvbW1lbnRFbnRpdHkgY29tbWVudEVudGl0eSA6IGNvbW1lbnRMaXN0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIE1lZGlhRW50aXR5IG1lZGlhRW50aXR5ID0gbmV3IE1lZGlhRW50aXR5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lZGlhRW50aXR5LnNldE1lZGlhVXJsKGNvbW1lbnRFbnRpdHkuZ2V0SWRlbnRpdHlJY29uKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBjb21tZW50RW50aXR5LnNldE1lZGlhRW50aXR5KG1lZGlhRW50aXR5KTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cj4+Pj4+Pj4gUkVROlBBT1BBT0FORFJPSUQtMTExMiDGwMLb1qez1reisrzSu9XFzbzGrA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uc3RhcndhbGwudWkuZnJhZy5QUENpcmNsZVRhYnNCb2R5Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uc3RhcndhbGwudWkuaGVscGVyLkhhbGZEZXRhaWxIZWxwZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5kYi5kYW8uSU1EYW87Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8ubGliLmNvbW1vbi51aS52aWV3LnB1bGxyZWZyZXNoLlFaRHJhd2VyVmlldzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5jaGF0Lm1vZGVsLmVudGl0eS5QYW9QYW87Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5peWkucGFvcGFvLmxpYi5jb21tb24udWkudmlldy5wdWJsaXNoYmFyLlNXUHVibGlzaEZsb2F0aW5nQmFyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkMDFmYjU3Li4uIFJFUTpQQU9QQU9BTkRST0lELTExMTIgxsDC29ans9a3orK80rvVxc28xqw6cGFvcGFvX2ZlZWQvc3JjL21haW4vamF2YS9jb20vaXFpeWkvZmVlZC91aS9mcmFnbWVudC9Eb3duTG9hZFZpZXdQYWdlckZyYWdtZW50LmphdmEK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5wYW9wYW8uc3RhcndhbGwudWkuZnJhZy5QUENpcmNsZVRhYnNCb2R5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnBhb3Bhb19hbmRyb2lkL3NyYy9tYWluL2phdmEvY29tL2lxaXlpL3Bhb3Bhby9jb21tb24vdWkvZnJhZy9Eb3duTG9hZFZpZXdQYWdlckZyYWdtZW50LmphdmEKICAgICAgICAgICAgICAgIEZlZWRKdW1wSGVscGVyLmdvMlBQRGV0YWlsQWN0aXZpdHkobUFjdGl2aXR5LCBtRmVlZCwgMCwgZmFsc2UsIDAsIDAsICIiKTsKPT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5kYi5kYW8uSU1EYW87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pcWl5aS5pbS5jaGF0Lm1vZGVsLmVudGl0eS5QYW9QYW87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
