@@ -6,7 +6,9 @@
       <file name="/a.dummy" timestamp="1507831395776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/layout/pp_fragment_feed_detail.xml" timestamp="1507830558168" />
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/layout/pp_fragment_feed_detail.xml" timestamp="1507859140150">
+        <mark key="[" line="55" column="64" />
+      </file>
       <file name="E:/Paopao/paopao_android/paopao_feed/src/main/res/layout/pp_fragment_sw_photo_pagerview.xml" timestamp="1507828330515">
         <mark key="[" line="66" column="38" />
         <mark key="]" line="66" column="49" />
@@ -47,7 +49,7 @@
         <mark key="." line="79" column="48" />
         <mark key="^" line="79" column="48" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/model/CommentRepository.java" timestamp="1507831926954">
+      <file name="E:/Paopao/paopao_android/paopao_feed/src/main/java/com/iqiyi/feed/ui/model/CommentRepository.java" timestamp="1507859062842">
         <mark key="[" line="247" column="81" />
         <mark key="]" line="248" column="63" />
         <mark key="." line="248" column="63" />
@@ -282,7 +284,7 @@
         <mark key="." line="275" column="44" />
         <mark key="^" line="275" column="43" />
       </file>
-      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/helper/QZHelper.java" timestamp="1507832707606">
+      <file name="E:/Paopao/paopao_android/paopao_android/src/main/java/com/iqiyi/paopao/starwall/ui/helper/QZHelper.java" timestamp="1507859057404">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1609" column="47" />
         <mark key="]" line="1610" column="27" />
