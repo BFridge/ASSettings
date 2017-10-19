@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\Paopao\paopao_android\paopao_android\src\main\java\com\iqiyi\paopao\common\ui\frag\DownLoadViewPagerFragment.java'" />
-    <option name="defaultScopeName" value="File 'E:\Paopao\paopao_android\paopao_android\src\main\java\com\iqiyi\paopao\common\ui\frag\DownLoadViewPagerFragment.java'" />
+    <option name="customScope" value="Module 'paopao_feed'" />
+    <option name="defaultScopeName" value="Module 'paopao_feed'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'E:\Paopao\paopao_android\paopao_android\src\main\java\com\iqiyi\paopao\common\ui\frag\DownLoadViewPagerFragment.java'" />
+    <option name="SEARCH_SCOPE" value="Module 'paopao_feed'" />
   </component>
 </application>
