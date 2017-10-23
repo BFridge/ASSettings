@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="EditorEscape" />
   <action id="InheritanceToDelegation">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
@@ -20,5 +21,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="VimInsertExitMode">
+    <keyboard-shortcut first-keystroke="escape" />
   </action>
 </keymap>
