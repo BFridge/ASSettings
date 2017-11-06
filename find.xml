@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\Paopao\paopao_android\paopao_middle_common_library\src\main\java\com\iqiyi\paopao\playcore\managers\SharedPlayerManager.java'" />
-    <option name="defaultScopeName" value="File 'E:\Paopao\paopao_android\paopao_middle_common_library\src\main\java\com\iqiyi\paopao\playcore\managers\SharedPlayerManager.java'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'E:\Paopao\paopao_android\paopao_middle_common_library\src\main\java\com\iqiyi\paopao\playcore\managers\SharedPlayerManager.java'" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
