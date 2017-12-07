@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'qiyivideo'" />
-    <option name="defaultScopeName" value="Project 'qiyivideo'" />
+    <option name="customScope" value="Directory 'E:\Paopao\paopao_android\paopao_middle_common_library\src\main\java\com\iqiyi\paopao\middlecommon\ui\view\tileimageview'" />
+    <option name="defaultScopeName" value="Directory 'E:\Paopao\paopao_android\paopao_middle_common_library\src\main\java\com\iqiyi\paopao\middlecommon\ui\view\tileimageview'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'qiyivideo'" />
+    <option name="SEARCH_SCOPE" value="Directory 'E:\Paopao\paopao_android\paopao_middle_common_library\src\main\java\com\iqiyi\paopao\middlecommon\ui\view\tileimageview'" />
   </component>
 </application>
