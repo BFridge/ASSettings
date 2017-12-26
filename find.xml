@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\Paopao\paopao_android\paopao_feed\src\main\java\com\iqiyi\feed\entity\CommentParamEntity.java'" />
-    <option name="defaultScopeName" value="File 'E:\Paopao\paopao_android\paopao_feed\src\main\java\com\iqiyi\feed\entity\CommentParamEntity.java'" />
+    <option name="customScope" value="Project 'qiyivideo'" />
+    <option name="defaultScopeName" value="Project 'qiyivideo'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'E:\Paopao\paopao_android\paopao_feed\src\main\java\com\iqiyi\feed\entity\CommentParamEntity.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'qiyivideo'" />
   </component>
 </application>
